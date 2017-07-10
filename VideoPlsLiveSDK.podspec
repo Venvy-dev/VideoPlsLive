@@ -35,7 +35,7 @@ Pod::Spec.new do |s|
   s.source_files = 'VideoPlsLiveSDK/**/*.{h,m}'
   s.public_header_files = '{VideoPlsLiveSDK/LDBussiness/LDSDKIVAView.h,VideoPlsLiveSDK/LiveIVASDK.h,VideoPlsLiveSDK/LDIVAPlayback.h}'
 
-  s.dependency 'VideoPlsUtilsPlatformSDK', '1.0.6'
+  s.dependency 'VideoPlsUtilsPlatform', '1.0.6'
   s.frameworks = 'WebKit'
   s.library = 'sqlite3'
   
