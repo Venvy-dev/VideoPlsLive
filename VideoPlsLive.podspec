@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'VideoPlsLiveSDK'
+  s.name             = 'VideoPlsLive'
   s.version          = '1.3.4'
   s.summary          = 'VideoPls Live Interface View.'
 
@@ -29,8 +29,9 @@ Pod::Spec.new do |s|
   s.source           = { :http => 'https://cytroncdn.videojj.com/iOS_package/VideoPlsLive/1.3.4/VideoPlsLiveSDK.zip' }
 
 
+  s.ios.deployment_target = '7.0'
   s.dependency 'VideoPlsUtilsPlatform', '1.0.6'
-  s.frameworks = 'WebKit'
+  s.frameworks = 'WebKit', 'CoreMedia'
   s.library = 'sqlite3'
   
   s.vendored_frameworks = 'VideoPlsLiveSDK.framework'
