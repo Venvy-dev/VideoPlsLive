@@ -89,7 +89,7 @@ LDSDKIVAView *liveView = [[LDSDKIVAView alloc] initWithFrame:showView.bounds Url
 ## Author
 
 Zard1096, mr.zardqi@gmail.com		
-LiShaoshuai, lishaoshuai1990@gmail.com	 
+Lishaoshuai, lishaoshuai1990@gmail.com	 
 Bill, fuleiac@gmail.com
 
 ## License
