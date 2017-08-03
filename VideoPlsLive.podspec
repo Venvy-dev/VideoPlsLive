@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VideoPlsLive'
-  s.version          = '1.5.0'
+  s.version          = '1.5.1'
   s.summary          = 'VideoPls Live Interface View.'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Zard1096'     => 'mr.zardqi@gmail.com',
                          'LiShaoshuai'  => 'lishaoshuai1990@gmail.com',   
                          'Bill'         => 'fuleiac@gmail.com'          }
-  s.source           = { :http => 'https://cytroncdn.videojj.com/iOS_package/VideoPlsLive/VideoPlsLiveSDK_1.5.0.zip' }
+  s.source           = { :http => 'https://sdkcdn.videojj.com/liveOS/ios/VideoPlsLiveSDK_1.5.1.zip' }
 
 
   s.ios.deployment_target = '7.0'
