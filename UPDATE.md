@@ -1,4 +1,8 @@
 # VideoPlsLiveSDK
+###1.7.3
+1. 修复webview打开通知不匹配
+2. 修复部分imageLoad没有做error处理
+3. 优化分类命名
 
 ###1.7.0
 1. 更改熊猫投票样式
