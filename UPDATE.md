@@ -1,4 +1,7 @@
 # VideoPlsLiveSDK
+
+###1.7.4
+
 ###1.7.3
 1. 修复webview打开通知不匹配
 2. 修复部分imageLoad没有做error处理
