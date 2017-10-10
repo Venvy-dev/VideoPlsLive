@@ -1,4 +1,7 @@
 # VideoPlsLiveSDK
+###1.8.2
+1. 修复子商城打开全屏webView货架未关闭
+
 ###1.8.1
 1. 修复子商城WebView初始化没有返回值
 
