@@ -1,4 +1,6 @@
 # VideoPlsLiveSDK
+###1.8.5
+
 ###1.8.4
 1. 子商城提供webView添加本地购物车管理
 2. 子商城webView移除灰色加载
