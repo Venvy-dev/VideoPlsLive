@@ -1,4 +1,8 @@
 # VideoPlsLiveSDK
+
+###1.8.9
+1. 合并1.7.0 Live bug fix
+
 ###1.8.8
 
 ###1.8.7
