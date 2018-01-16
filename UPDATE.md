@@ -1,4 +1,6 @@
 # VideoPlsLiveSDK
+###1.8.10
+1. Fix http cache
 
 ###1.8.9
 1. 合并1.7.0 Live bug fix
@@ -35,6 +37,11 @@
 ###1.7.0
 1. 更改熊猫投票样式
 2. 更新抽奖样式
+
+###1.6.12
+1. 修复在没有startLoading时stop触发closeVideo的track
+
+###1.6.9
 
 ###1.6.0
 1. 更改数据请求链路
