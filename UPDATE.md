@@ -1,4 +1,7 @@
 # VideoPlsLiveSDK
+###1.8.11
+1. Fix storeView size not update
+
 ###1.8.10
 1. Fix http cache
 
